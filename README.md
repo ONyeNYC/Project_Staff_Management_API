@@ -15,7 +15,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Installation
 
-1. Clone the repository:git clone https://github.com/yourusername/staff-management-app.git
+1. Clone the repository:git clone https://github.com/ONyeNYC/Project_Staff_Management_API
 
 2. Change to the project directory: cd staff-management-app
 
